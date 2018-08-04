@@ -15,7 +15,7 @@ setup(name='tap-facebook',
           'facebook_business==3.0.5',
           'pendulum==1.2.0',
           'requests==2.12.4',
-          'singer-python==5.0.2',
+          'singer-python==5.0.14',
       ],
       entry_points='''
           [console_scripts]
